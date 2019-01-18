@@ -19,10 +19,12 @@ Hardware Componant
 - List the hardware components you'll be using, and how they interact. 
   This is an appropriate place for a diagram. An EXCELLENT resource 
   for creating diagrams is the [Fritzing website](http://fritzing.org/home/ "Fritzing website")
-  - weght sensor: will be connected to the arduino and checks the 
-  - sound output device:
-  - arduino:
-  - amplifire HX711 board: amplifys the changes in the electrical risistance so it can be read by the arduino.
+  
+  - weght sensor: will be connected to the arduino through bread board and checks the water bottle's weight 
+  - sound output device: This device will sound every few hours to let the user know to drink water and will be connected to adruino through bread board
+  - arduino: will house the code and this will receive input from weght sensor and cause sound device to make noise
+  - bread board: this is where everything will be connected 
+  - amplifire HX711 board: amplifys the changes in the electrical risistance from the weight sensor so it can be read by the arduino.
 
 - List all of the known parts in the code you'll be creating.
   - we will have a function measure the time during the day from 7am-7pm 
