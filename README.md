@@ -72,6 +72,10 @@ as well as celebratory of what was achieved.
 
 ## References
 *Start this section at the beginning of the project, and update it throughout.*
+How to use a Weight Sensor / Load Cell HX711 with an Arduino. (n.d.). Retrieved from https://www.brainy-bits.com/load-cell-and-hx711-with-arduino/
+
+Build a digital Raspberry Pi Scale (with Weight Sensor HX711). (n.d.). Retrieved from https://tutorials-raspberrypi.com/digital-raspberry-pi-scale-weight-sensor-hx711/
+
 
 https://tutorials-raspberrypi.com/digital-raspberry-pi-scale-weight-sensor-hx711/
 https://www.brainy-bits.com/load-cell-and-hx711-with-arduino/
