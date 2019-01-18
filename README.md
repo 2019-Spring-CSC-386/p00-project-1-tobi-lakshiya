@@ -34,9 +34,7 @@ Hardware Componant
   - we will have a function that takes the input from the wieght sensor and checks weight and output based on the mesure ments. It will check if the current weight is less that the weight of the privieous reading.
 
 ## Files
-*You'll complete this section as part of Milestone 1.*
-
-List every file in your repository, and briefly summarize each file's purpose in a sentence.
+Sketch.fzz - This file holds the diagram for our current prototype. at milestone 1
 
 ## Summary
 *You'll complete this part at the end of the project.*
