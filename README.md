@@ -19,7 +19,8 @@ Hardware Componant
 - List the hardware components you'll be using, and how they interact. 
   This is an appropriate place for a diagram. An EXCELLENT resource 
   for creating diagrams is the [Fritzing website](http://fritzing.org/home/ "Fritzing website")
-  (images/Schematic.png) (images/BreadBoard.png)
+  ![image of Schematics](images/Schematic.png) 
+  ![image of BreadBoard](images/BreadBoard.png)
   
   - weght sensor: will be connected to the arduino through bread board and checks the water bottle's weight 
   - sound output device: This device will sound every few hours to let the user know to drink water and will be connected to adruino through bread board
@@ -31,13 +32,6 @@ Hardware Componant
   - we will have a function measure the time during the day from 7am-7pm 
   - we will have a function rings a notification alarm every 4 hours and call another function to check the weight
   - we will have a function that takes the input from the wieght sensor and checks weight and output based on the mesure ments. It will check if the current weight is less that the weight of the privieous reading.
-
-**Sample image**:
-
-![A sample image to show how to add one to a repo](images/example.png "A sample image. This is the text that appears.")
-
-**NOTE**: Your initial design plan may not fully reflect your final product,
-as projects evolve over time.
 
 ## Files
 *You'll complete this section as part of Milestone 1.*
