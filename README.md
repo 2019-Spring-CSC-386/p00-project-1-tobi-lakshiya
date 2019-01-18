@@ -5,7 +5,7 @@
 **Google Document**: https://docs.google.com/document/d/1iizkFOpGYiZkVsFdw9JWU4q7ni9mdWjg4EPIaNEp_68/edit?usp=sharing
 ---
 ## Purpose
-*Is make sure that the person drinks enough water every day*
+*The purpose is to make sure that the person drinks enough water every day*
 
 Most people don't drink enough water every day. And setting a reminder on a phone is not too effective because you can just ignore it or lie about how much water you drank. We will solve this problem by creating an embedded system that checks the weight of the water bottle every few hours to make sure you have emptied the water bottle.
 
