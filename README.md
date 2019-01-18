@@ -19,6 +19,7 @@ Hardware Componant
 - List the hardware components you'll be using, and how they interact. 
   This is an appropriate place for a diagram. An EXCELLENT resource 
   for creating diagrams is the [Fritzing website](http://fritzing.org/home/ "Fritzing website")
+  (images/Schematic.png) (images/BreadBoard.png)
   
   - weght sensor: will be connected to the arduino through bread board and checks the water bottle's weight 
   - sound output device: This device will sound every few hours to let the user know to drink water and will be connected to adruino through bread board
