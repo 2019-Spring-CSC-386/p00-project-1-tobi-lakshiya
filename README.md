@@ -68,21 +68,21 @@ as well as celebratory of what was achieved.
 ## References
 How to use a Weight Sensor / Load Cell HX711 with an Arduino. (n.d.). Retrieved from https://www.brainy-bits.com/load-cell-and-hx711-with-arduino/
 
-   -we used this resource to find out how weight sensor can be connected to the arudino, to see how the sensors are connected and to look for code.
+   -we used the above resource to find out how weight sensor can be connected to the arudino and to look for code.
 
 Build a digital Raspberry Pi Scale (with Weight Sensor HX711). (n.d.). Retrieved from https://tutorials-raspberrypi.com/digital-raspberry-pi-scale-weight-sensor-hx711/
 
-   -we use this resource to learn about weight sensors
+   -we used the above resourcee to learn about weight sensors.
 
-https://www.brainy-bits.com/load-cell-and-hx711-with-arduino/
 
 https://www.interlinkelectronics.com/standard-products
 
+   -we used the above link  to learn about the Force Sensing Resistor.
+
 https://vimeo.com/107844653
 
-https://tutorials-raspberrypi.com/digital-raspberry-pi-scale-weight-sensor-hx711/
+-we used the above link to find out how Force Sensing Resistor can be connected to the arudino and to look for code.
 
-https://www.brainy-bits.com/load-cell-and-hx711-with-arduino/
 
 ## Final Self-Evaluations
 *You'll complete this part at the end of the project. 
