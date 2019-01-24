@@ -7,31 +7,29 @@
 ## Purpose
 *The purpose is to make sure that the person drinks enough water every day*
 
-Most people don't drink enough water every day. And setting a reminder on a phone is not too effective because you can just ignore it or lie about how much water you drank. We will solve this problem by creating an embedded system that checks the weight of the water bottle every few hours to make sure you have emptied the water bottle.
+Most people don't drink enough water every day. setting a reminder on a phone is not too effective because you can just ignore it or lie about how much water you drank. We will solve this problem by creating an embedded system that checks the weight of the water bottle every few hours to make sure you have emptied the water bottle.
 
 - Design: we will have a two liter bottle in the moring and it will measure the weight throughout the day
 
 ## Initial Design Plan
-*You'll complete this section as part of Milestone 1, and update regularly.*
 
-Outline the product you're creating:
-Hardware Componant
-- List the hardware components you'll be using, and how they interact. 
-  This is an appropriate place for a diagram. An EXCELLENT resource 
-  for creating diagrams is the [Fritzing website](http://fritzing.org/home/ "Fritzing website")
+Outline the product :
+
+- Images
   ![image of Schematics](images/Schematic.png) 
   ![image of BreadBoard](images/BreadBoard.png)
   
-  - weght sensor: will be connected to the arduino through bread board and checks the water bottle's weight 
-  - sound output device: This device will sound every few hours to let the user know to drink water and will be connected to adruino through bread board
-  - arduino: will house the code and this will receive input from weght sensor and cause sound device to make noise
-  - bread board: this is where everything will be connected 
-  - amplifire HX711 board: amplifys the changes in the electrical risistance from the weight sensor so it can be read by the arduino.
+ Hardware Component 
+  - weight sensor: It will be connected to the arduino through bread board and checks the weight of the water bottle. 
+  - sound output device: This device will make sound or beep every few hours to let the user know to drink water. It will be connected to adruino through bread board.
+  - arduino: It will house the code and will receive input from weight sensor and cause sound device to make noise.
+  - bread board: It will be used to connect everything.
+  - amplifire HX711 board: It will be used to amplify the changes in the electrical risistance from the weight sensor so it can be read by the arduino.
 
 - List all of the known parts in the code you'll be creating.
-  - we will have a function measure the time during the day from 7am-7pm 
-  - we will have a function rings a notification alarm every 4 hours and call another function to check the weight
-  - we will have a function that takes the input from the wieght sensor and checks weight and output based on the mesure ments. It will check if the current weight is less that the weight of the privieous reading.
+  - we will have a function to measure the time during the day from 7am-7pm 
+  - we will have a function  that rings a notification (alarm) every 4 hours and call another function to check the weight
+  - we will have a function that takes the input from the wieght sensor and checks weight and output based on the mesurements. It will check if the current weight is less that the weight of the previous reading.
 
 ## Files
 Sketch.fzz - This file holds the diagram for our current prototype. at milestone 1
