@@ -16,8 +16,7 @@ Most people don't drink enough water every day. setting a reminder on a phone is
 Outline the product :
 
 - Images
-  ![image of Schematics](images/Schematic.png) 
-  ![image of BreadBoard](images/BreadBoard.png)
+   ![image of BreadBoard](images/BreadBoard.png)
   
  Hardware Component 
   - weight sensor: It will be connected to the arduino through bread board and checks the weight of the water bottle. 
@@ -68,6 +67,7 @@ as well as celebratory of what was achieved.
 
 ## References
 How to use a Weight Sensor / Load Cell HX711 with an Arduino. (n.d.). Retrieved from https://www.brainy-bits.com/load-cell-and-hx711-with-arduino/
+      - we used this resource to find out how weight sensor can be connected to the arudino, to see how the sensors are connected and to look for code.
 
 Build a digital Raspberry Pi Scale (with Weight Sensor HX711). (n.d.). Retrieved from https://tutorials-raspberrypi.com/digital-raspberry-pi-scale-weight-sensor-hx711/
 
