@@ -69,21 +69,19 @@ It should be critical of shortcomings (yours, as well as the instructors/assignm
 as well as celebratory of what was achieved.
 
 ## References
-*Start this section at the beginning of the project, and update it throughout.*
 How to use a Weight Sensor / Load Cell HX711 with an Arduino. (n.d.). Retrieved from https://www.brainy-bits.com/load-cell-and-hx711-with-arduino/
 
 Build a digital Raspberry Pi Scale (with Weight Sensor HX711). (n.d.). Retrieved from https://tutorials-raspberrypi.com/digital-raspberry-pi-scale-weight-sensor-hx711/
 
-
-https://tutorials-raspberrypi.com/digital-raspberry-pi-scale-weight-sensor-hx711/
 https://www.brainy-bits.com/load-cell-and-hx711-with-arduino/
 
-Throughout this project, you'll be used outside resources.
-Reference ALL ideas or code which are not your own, and describe and
-how you integrated the ideas or code into your program. This includes
-online sources, people who have helped you, and any other resources that
-are not solely your own contribution. Lastly, include ALL resources you
-looked at, not just the ones you ended up using directly.
+https://www.interlinkelectronics.com/standard-products
+
+https://vimeo.com/107844653
+
+https://tutorials-raspberrypi.com/digital-raspberry-pi-scale-weight-sensor-hx711/
+
+https://www.brainy-bits.com/load-cell-and-hx711-with-arduino/
 
 ## Final Self-Evaluations
 *You'll complete this part at the end of the project. 
