@@ -3,6 +3,15 @@
 **Author(s)**: Tobi & Lakshiya
 
 **Google Document**: https://docs.google.com/document/d/1iizkFOpGYiZkVsFdw9JWU4q7ni9mdWjg4EPIaNEp_68/edit?usp=sharing
+
+```diff 
+- Lots of typos in the document. Pay attention to details please.
+
+- I like the idea! I have ordered your HX711 adapter and it should be here by next week's class. Keep moving forward with the other pieces in the meantime. 
+
+- Your greatest challenge will be getting accurate weight information. The HX711 was a good find; good job researching it. 
+
+```
 ---
 ## Purpose
 *The purpose is to make sure that the person drinks enough water every day*
@@ -13,6 +22,10 @@ Most people don't drink enough water every day. And setting a reminder on a phon
 
 ## Initial Design Plan
 *You'll complete this section as part of Milestone 1, and update regularly.*
+```diff
+- Please remove ALL help text in this document, such as below (List the hardware...). 
+- The first diagram isn't very helpful. The Fritzing Diagram is better, but could be improved by cleaning it up a little. It's a good first pass though!
+```
 
 Outline the product you're creating:
 Hardware Componant
@@ -32,6 +45,10 @@ Hardware Componant
   - we will have a function measure the time during the day from 7am-7pm 
   - we will have a function rings a notification alarm every 4 hours and call another function to check the weight
   - we will have a function that takes the input from the wieght sensor and checks weight and output based on the mesure ments. It will check if the current weight is less that the weight of the privieous reading.
+
+```diff
+- You mentioned measuring time; that requires a Real-Time Clock (RTC). We have plenty in the lab for that.
+```
 
 ## Files
 Sketch.fzz - This file holds the diagram for our current prototype. at milestone 1
