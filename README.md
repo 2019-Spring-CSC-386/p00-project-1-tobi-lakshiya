@@ -32,8 +32,11 @@ Outline the product :
 
 ## Files
 -Sketch.fzz - This file holds the diagram for our current prototype at milestone 1
+
 -Sketch2.0.fzz - This file holds the diagram for our current prototype at milestone2
+
 -weight_Sensor_Code_0.1- this is our first test code to make sure the force sensor works
+
 -weight_Sensor_Code_0.2- this is our next step code that alarms every minute when no force being acted on the sensor
 
 ## Summary
