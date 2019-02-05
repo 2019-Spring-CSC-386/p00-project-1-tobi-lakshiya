@@ -89,6 +89,9 @@ https://vimeo.com/107844653
 
 -we used the above link to find out how Force Sensing Resistor can be connected to the arudino and to look for code.
 
+https://learn.sparkfun.com/tutorials/load-cell-amplifier-hx711-breakout-hookup-guide/all
+
+- we used this site to learn about the hx711 load cell amplifier.
 
 ## Final Self-Evaluations
 *You'll complete this part at the end of the project. 
