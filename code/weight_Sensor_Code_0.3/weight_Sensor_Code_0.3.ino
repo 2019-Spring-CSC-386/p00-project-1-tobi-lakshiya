@@ -21,12 +21,12 @@ void loop() {
   //Serial.print(CheckTime);
 
     // if 5 seconds has passed and there is nothing on the weight sensor
-    if ((StartTime > CheckTime) &&  (StartTime < CheckTime+3000) && (fsrVal > 100)) {
+    if ((StartTime > CheckTime) &&  (StartTime < CheckTime+3000) && (fsrVal < 200)) {
     tone (buzzer, 500);
     }
 
     // if weight sesnor is pressed it will read 0
-    if (fsrVal == 0) {
+    if (fsrVal > 200) {
       noTone (buzzer);// stops buzzer
       CheckTime = StartTime + 5000;
     }
