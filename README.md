@@ -102,27 +102,27 @@ You can't give both people 6 points each though, as the sum exceeds 10.
 
 ### Ideation, Brainstorming, Design:
 
-*Partner 1 (replace this with your name): 0-10*
+*Tobi Adejumo (replace this with your name): 5
 
-*Partner 2 (replace this with your name): 0-10*
+*Lakshiya Indeswaran (replace this with your name): 5
 
 ### Code creation: 
 
-*Partner 1 (replace this with your name): 0-10*
+*Tobi Adejumo (replace this with your name): 6
 
-*Partner 2 (replace this with your name): 0-10*
+*Lakshiya Indeswaran (replace this with your name): 4
 
 ### Documentation creation:
 
-*Partner 1 (replace this with your name): 0-10*
+*Tobi Adejumo (replace this with your name): 4
 
-*Partner 2 (replace this with your name): 0-10*
+*Lakshiya Indeswaran (replace this with your name):6
 
 ### Teamwork & Participation:
 
-*Partner 1 (replace this with your name): 0-10*
+*Tobi Adejumo (replace this with your name): 5
 
-*Partner 2 (replace this with your name): 0-10*
+*Lakshiya Indeswaran (replace this with your name): 5
 
 
 ---
