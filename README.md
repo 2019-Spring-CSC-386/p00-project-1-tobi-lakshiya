@@ -51,7 +51,12 @@ All in all this project took over ten hours work including brainstorming, coding
 ## Instructions
 Explain how to use your product. 
 This section should THOROUGHLY describe its usage (i.e., more than just "Push start").
-The system helps you to check whether or not you meet your goal in drinking water. In the morning you will need to fill your waterbottle. Then turn the embedded system on. It will start making noise unless the water bottle is placed
+The system helps you to check whether or not you meet your goal in drinking water. In the morning you will need to fill your waterbottle. Then turn the embedded system on. It will start making noise. In order for the system to stop making noise, you will need to place the water bottle on the sensor within 20 minutes of turning it on. This is to make sure that you take your water bottle with you and it is filled with water. Here the maeausremt read should be less than 500. 500 is the maximum value that will be read by the waterbottle when it is empty.
+The goal is to finish the water in the bottle at the end of the day(12 hours after the suystem is started). Throughout the day, the system will make sure that you are drinking water. For every 10000 seconds, hours it check whether you have drunk  water. When you turn on the system, the timer start running. when the timer hits 4 hours, it starts beeping again. In order to stop beeping, you will need to place the water bottle again on the sensor and the weight of the water bottle should be lower than the meausrement you got last time when you have placed the bottle on the sensor. The system checks whether the weight is reduced inorder to ensure that you have drunk the water in the bottle. After you placed the bottle, if the measurement is less then it will stop beeping. This is repated every four hours until the total time the system is on for 12 hours. 
+
+At the end of the day, that is 12 hours after you have turned the system on, the system will start beeping again. In order to stop the system from making noise, you will need to put  empty water bottle in the sensor. The system will make sure that the bottle is empty based on the reading it gets. If thhe reading is between 50 and 500, then the system will stop making noise. At the end of the day it makes sures that the you have drunk all the water.urn the system onn.
+
+Then the system will stop working. For next day then you will need to t
 
 ## Errors and Constraints
 -Current constraint: you have to use a water bottle that is similar to the weight of the one we are using
