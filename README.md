@@ -40,14 +40,13 @@ Outline the product :
 -weight_Sensor_Code_0.2- this is our next step code that alarms every minute when no force being acted on the sensor
 
 ## Summary
-*You'll complete this part at the end of the project.*
+For this project we decided to design a sensor that helps makes the user drink a certain amount of water everyday. We went about building this by having an alarm that goes of every 4 hours. While the alarm is going off the user will have to weigh water bottle that has less water in it than it did 4 hours ago. At the beginning of the day the sensor will check for a full water bottle. And at the end of the day the sensor will check for an empty water bottle.  
 
-Provide a brief summary description of the design and implementation,
-including how much your initial design plan evolved, the final result
-you achieved and the amount of time you spent as a programmer in
-accomplishing these results, including any challenges overcome and
-innovations that were not specifically required by the assignment.
-This section should be no more than three paragraphs.
+The process of putting this together was not as complicated as we expected but we did come across a few difficulties. The initial design came in every handy but ended up changing quite a bit. Initially we wanted to use a load cell but we only had a force sensor so we used that instead. We had problems with the force sensor not being sensitive enough, so we ended up using a resistor. In the end we got the force sensor to read relatively accurately and the buzzer to to go off every four hours.
+
+All in all this project took over ten hours work including brainstorming, coding, review, and discussion. We learned a lot and it was a really good experience.
+
+
 
 ## Instructions
 Explain how to use your product. 
