@@ -73,11 +73,12 @@ Then the system will stop working. For next day, you will need to start the syst
 
 Write 2 - 4 paragraphs on your reactions to the final project
 
+We believe that we have accomplished what we planned to do in the beginning of the project at least 90 percentage. We are happy that we are able to make something that will be useful and it can be used as an idea to make an actual embedded system that make sure a person drinks certain amount of water each day. We believe that this system will be really useful if we could modify the current system and make an actual embedded system that can be connected to a water bottle. 
 
-We believe that we have accomplished what we planned to do atleast 90 percentage. 
---change of sensors
---timing 
---this gave us an experince to find soultions to everyday problem we face using the simple tools available. the coding is not very complicated and it was instersting. we learned how force sensors work and how to get accurate values from them using resistors. We also learned about various functions in arduino. this project gave us an opportnity to explore various functions in arduino. We also learned to use different sensors and theri applications. We laso learned how a a ahardware that is very useful for 
+This project has given experience to find solutions to real life problem using the simple tools available. The coding is not very complicated and it was interesting to do. We learned how force sensors work and how to get accurate values from sensors using resistors. This project gave us an opportunity to explore various functions in arduino. We also learned to use different sensors and get to know their applications. 
+
+The only thing that we regret is that we did not end up using the amplifire HX711 board that we were planning to use. We thought that it would be of a great use. But since we used a different sensors, we couldn’t find a way to use it in a force sensor. verall, this was a great experience and we believe that if we get to work on the same project more little more time, we would be able to make an embedded system that is useful for everyday life.
+
 
 Your reflection should be thoughtful and reflective. 
 It is NOT a report about WHAT you did. 
