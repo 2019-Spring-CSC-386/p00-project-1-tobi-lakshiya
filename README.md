@@ -71,7 +71,14 @@ Then the system will stop working. For next day, you will need to start the syst
 ## Reflection
 *You'll complete this part at the end of the project.*
 
-Write 2 - 4 paragraphs on your reactions to the final project. 
+Write 2 - 4 paragraphs on your reactions to the final project
+
+
+We believe that we have accomplished what we planned to do atleast 90 percentage. 
+--change of sensors
+--timing 
+--this gave us an experince to find soultions to everyday problem we face using the simple tools available. the coding is not very complicated and it was instersting. we learned how force sensors work and how to get accurate values from them using resistors. We also learned about various functions in arduino. this project gave us an opportnity to explore various functions in arduino. We also learned to use different sensors and theri applications. We laso learned how a a ahardware that is very useful for 
+
 Your reflection should be thoughtful and reflective. 
 It is NOT a report about WHAT you did. 
 Instead, it's a look back at what you learned by doing this project.
@@ -101,11 +108,7 @@ https://learn.sparkfun.com/tutorials/load-cell-amplifier-hx711-breakout-hookup-g
 - we used this site to learn about the hx711 load cell amplifier.
 
 ## Final Self-Evaluations
-*You'll complete this part at the end of the project. 
-Assign points to each team member in each category, based on their contribution to the team. 
-The sum of all member's points in each category cannot exceed 10. 
-For example, for Coding, Partner 1 could get 7 points, and Partner 2 gets 3 points. 
-You can't give both people 6 points each though, as the sum exceeds 10.
+
 
 ### Ideation, Brainstorming, Design:
 
