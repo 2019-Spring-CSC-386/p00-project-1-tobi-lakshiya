@@ -51,6 +51,7 @@ All in all this project took over ten hours work including brainstorming, coding
 ## Instructions
 Explain how to use your product. 
 This section should THOROUGHLY describe its usage (i.e., more than just "Push start").
+The system helps you to check whether or not you meet your goal in drinking water. In the morning you will need to fill your waterbottle. Then turn the embedded system on. It will start making noise unless the water bottle is placed
 
 ## Errors and Constraints
 -Current constraint: you have to use a water bottle that is similar to the weight of the one we are using
@@ -103,33 +104,30 @@ You can't give both people 6 points each though, as the sum exceeds 10.
 
 ### Ideation, Brainstorming, Design:
 
-*Tobi Adejumo (replace this with your name): 5
+*Tobi Adejumo : 5
 
-*Lakshiya Indeswaran (replace this with your name): 5
+*Lakshiya Indeswaran : 5
 
 ### Code creation: 
 
-*Tobi Adejumo (replace this with your name): 6
+*Tobi Adejumo : 6
 
-*Lakshiya Indeswaran (replace this with your name): 4
+*Lakshiya Indeswaran : 4
 
 ### Documentation creation:
 
-*Tobi Adejumo (replace this with your name): 4
+*Tobi Adejumo : 4
 
-*Lakshiya Indeswaran (replace this with your name):6
+*Lakshiya Indeswaran :6
 
 ### Teamwork & Participation:
 
-*Tobi Adejumo (replace this with your name): 5
+*Tobi Adejumo : 5
 
-*Lakshiya Indeswaran (replace this with your name): 5
+*Lakshiya Indeswaran : 5
 
 
 ---
-**A Note from Scott to You**
 
-While I expect this project to have issues, one
-thing to keep in mind is HAVE FUN with it! Create a product that
-expresses your personal interests. Break up the writing so it’s not so burdensome.
-We will have a live demo sessions at the end of the project to celebrate your accomplishments.
+
+
