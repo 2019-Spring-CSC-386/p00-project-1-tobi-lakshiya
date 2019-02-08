@@ -5,7 +5,7 @@ int PrevWeight;
 bool Check = false;
 int fsrVal = analogRead(fsrPin);
 unsigned long StartTime = millis();
-unsigned long CheckTime =20000;
+unsigned long CheckTime =10000;
 
 void setup() {
   // initialize serial communication:
@@ -45,7 +45,7 @@ void loop() {
     EndDay();
     Serial.println("end");  
   }
-  delay(100);
+  delay(500);
   }
 ;
   void StartDay(){
@@ -68,24 +68,21 @@ void loop() {
     if ((StartTime > CheckTime) && (fsrVal < 50)) {
       tone (buzzer, 500);
     } 
-    else if((fsrVal < PrevWeight) && (fsrVal > PrevWeight- 200)) {
+    else if((fsrVal < PrevWeight) && (fsrVal > PrevWeight - 200)) {
       PrevWeight = CurrentWeight;
       noTone (buzzer);
-      CheckTime = StartTime + 20000;
+      CheckTime = StartTime + 10000;
     }
-    else if((fsrVal > PrevWeight) && (fsrVal > PrevWeight - 200)) {
+    else if(fsrVal > PrevWeight) {
       tone (buzzer, 200);
       Serial.println("asdfasdfasd");
     }
   }
-  void(* resetFunc) (void) = 0;
   void EndDay(){
     if (fsrVal > 400 || fsrVal < 50 && Check == false) {
     tone (buzzer, 500);
     }
     if (fsrVal < 400 && fsrVal > 50) {
-    noTone (buzzer);
-    resetFunc();
     Check = true;
     }
     
