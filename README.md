@@ -69,20 +69,9 @@ Then the system will stop working. For next day, you will need to start the syst
 
 
 ## Reflection
-
-We believe that we have accomplished what we planned to do in the beginning of the project at least 90 percentage. We are happy that we are able to make something that will be useful and it can be used as an idea to make an actual embedded system that make sure a person drinks certain amount of water each day. We believe that this system will be really useful if we could modify the current system and make an actual embedded system that can be connected to a water bottle. 
-
-This project has given experience to find solutions to real life problem using the simple tools available. The coding is not very complicated and it was interesting to do. We learned how force sensors work and how to get accurate values from sensors using resistors. This project gave us an opportunity to explore various functions in arduino. We also learned to use different sensors and get to know their applications. 
-
-The only thing that we regret is that we did not end up using the amplifire HX711 board that we were planning to use. We thought that it would be of a great use. But since we used a different sensors, we couldn’t find a way to use it in a force sensor. verall, this was a great experience and we believe that if we get to work on the same project more little more time, we would be able to make an embedded system that is useful for everyday life.
-
-PLEASE  DELETE THE FOLLOWING. I LEFT IT SO THAT YOU CAN CHECK.
-
-Your reflection should be thoughtful and reflective. 
-It is NOT a report about WHAT you did. 
-Instead, it's a look back at what you learned by doing this project.
-It should be critical of shortcomings (yours, as well as the instructors/assignments) 
-as well as celebratory of what was achieved.
+We believe that we have accomplished what we planned to do in the beginning of the project at least 90 percentage. We are happy that we are able to make something that will be useful and it can be used as an idea to make an actual embedded system that make sure a person drinks certain amount of water each day. We believe that this system will be really useful if we could modify the current system and make an actual embedded system that can be connected to a water bottle.
+This project helped us find solutions to real life problem using the simple tools available. The coding was not very complicated and it was interesting to do. We learned how force sensors work and how to get accurate values from sensors using resistors. This project gave us an opportunity to explore various functions in arduino. We also learned to use different sensors.
+The only thing that we regret is that we did not end up using the amplifier HX711 board that we were planning to use. We thought that it would be of a great use. We couldn’t find a way to use it with a force sensor. Overall, this was a great experience and we believe that if we had a little more time we would be able to make an embedded system that is useful for everyday life.
 
 ## References
 How to use a Weight Sensor / Load Cell HX711 with an Arduino. (n.d.). Retrieved from https://www.brainy-bits.com/load-cell-and-hx711-with-arduino/
