@@ -54,12 +54,11 @@ Explain how to use your product.
 This section should THOROUGHLY describe its usage (i.e., more than just "Push start").
 
 ## Errors and Constraints
-*You'll complete this part at the end of the project.*
+-Current constraint: you have to use a water bottle that is similar to the weight of the one we are using
+-Current constraint: you have to restart the arduino every morning 
+-Error: since this is a force sensor it measures the force being acted on it and as such sometimes when it reads the weight of the water bottle and the force of your hand placing the water botal down.
+-Error: the weight reading is not very accurate.
 
-Every program has bugs. Use this section to create a bullet list of
-all known errors and deficiencies that remain in your product. 
-Also, list any constraints that must exist for your product to work 
-(e.g., Only works in low light situations).
 
 ## Reflection
 *You'll complete this part at the end of the project.*
