@@ -55,8 +55,11 @@ This section should THOROUGHLY describe its usage (i.e., more than just "Push st
 
 ## Errors and Constraints
 -Current constraint: you have to use a water bottle that is similar to the weight of the one we are using
+
 -Current constraint: you have to restart the arduino every morning 
+
 -Error: since this is a force sensor it measures the force being acted on it and as such sometimes when it reads the weight of the water bottle and the force of your hand placing the water botal down.
+
 -Error: the weight reading is not very accurate.
 
 
